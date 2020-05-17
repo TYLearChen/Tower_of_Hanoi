@@ -8,7 +8,7 @@ OpenGL (glut)
 
 ## Description:
 
-This is a final group project of EE4208 - Computer Graphics for
+This is a final individual project of EE4208 - Computer Graphics for
 Engineers at City University of Hong Kong
 
 The animation is written in C++ with OpenGL.
